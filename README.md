@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python , Java**
 
 - 📫 How to reach me **shubhamkumarbind2004@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=versus2004&label=Profile%20views&color=0e75b6&style=flat" alt="versus2004" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubham96649368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham96649368" height="30" width="40" /></a>
