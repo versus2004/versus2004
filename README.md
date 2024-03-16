@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Python , Java**
 
