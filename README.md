@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhambind2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n_31i0zujULCgMIL_AcCcPgMO9hP6rRi/view?usp=sharing](https://drive.google.com/file/d/1n_31i0zujULCgMIL_AcCcPgMO9hP6rRi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n_31i0zujULCgMIL_AcCcPgMO9hP6rRi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
